@@ -22,7 +22,7 @@ The message show is `Hi yourname! You've successfully authenticated, but GitHub 
 
 Done!
 
-### 4. Fix authencation 
+### 4. Fix Authentication 
 If you see the message like `remote_: _Support_ for _password authentication_ was _removed_ on _August 13, 2021_. _Please use_ a _personal access token instead`
 
 Easy to fix it by step by step
